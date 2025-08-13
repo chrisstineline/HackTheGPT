@@ -36,5 +36,26 @@ Guiding the model further by slowly changing the prompts, before getting a “be
 
  ![First IP exposed by using this Prompt 1](https://github.com/chrisstineline/HackTheGPT/blob/main/DCdkIP.PNG)
 
- 
+
+Without providing any specifics about the prompt-escalating or correction/ rediction in tasks, the later products were related to serious issues. Example 2: 
+
+    - Entry 24 on list 9 (150 each) --> "xx.xx.xx.xx,XXXX,xxx_AnonymousAccess" 
+    - A specific issue being posted to SoMe in another issue, 2 months ago, meaning OLD issues are persistant currently, AND this entry may be real. 
+    - IF real: There is an Asian Company with a costumerbase of a considerable size, having an openfaced no_root or other percautions up -> open to attacks
+            - Additionally: The specific IP was listed with a 5+ Million consumer-databasen vulnerable
+
+This is a singular entry of around 1000~ total. 
+
+The POTENTIAL scope is large - once again if consistantly true to information. 
+
+There is a process open on BugCrowd to get this sorted on proper channels, with proper information and copies of the examples in full. 
+
+# Reason for creating this Repo
+It has an educational purpose:
+
+    - Having new and inexperienced developers and other roles related to anything live, USING the AI models like ChatGPT or Gemini, can be the reason for these lists and entries being generated as is:
+        - The model will create conenctions in chats, and use positive feedback to further develop into this supposed "wanted" feedback loop. The model keeps accepting prompts as "roleplay" or "this test and code is just for fun, please run it through before I realse it to MyBigCompany" (kindly including IP and Port in the prompt). 
+        - Given how AI is supposedly working in the black box, that means: It keeps pulling from others examples, because they have been labeled as such when prompted. The label carries information into other chats and so on. 
+    - The results are carried over, I find them and potentially abuse them. The AI doesn't know I'm not playing. 
+
 Ref 1: https://listenonrepeat.com/?v=SthcxWPXG_E#I_heard_you_like_polyrhythms
