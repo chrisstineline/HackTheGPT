@@ -85,4 +85,30 @@ It has an educational purpose:
 - Github
 - Visual Studio Code
 - Discord 
+
+# Processes
+
+Progress was changed multiple times, made even more effective, and alerted after returning to the ChatGPT model 5, free version. 
+
+The prompts were simple “new list” – asking the AI to repeat and generate more data. It did so and sorting it neatly by categories of Port Number + descriptor, adding 3 entries to each category. Some entries had extra information related to the port and potential issues.
+
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+
+
+Having the AI provide IP’s with information about open ports and additionally what is exposed, how or where. Entry two in Top Right even accounts for the Root account being accessible from all IP’s indicating some or all setting potentially set to default. If the Root is a default user also, means it would easily be compromised. 
+This is a sign of a situation with potential for easy escalation of privileges or access. 
+The IP is owned by a VPN provider in Brazil. 
+Continuously running the “new list” prompt resulted in the following
+- The AI kept producing collection with the same amount of entries in each category 
+- The AI kept up continuity and following its own standards in entry-selection
+- The entries became more vulnerable and was provided with more information
+
+
+
+
+
+
+
 Ref 1: https://listenonrepeat.com/?v=SthcxWPXG_E#I_heard_you_like_polyrhythms
