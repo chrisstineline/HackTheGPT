@@ -59,4 +59,30 @@ It has an educational purpose:
     - The results are carried over, I find them and potentially abuse them. The AI doesn't know I'm not playing. 
     - Openly ignoring bad practice because of convenience is mad, which continues the feedback loop of improper AI behavior
 
+
+# Tools used
+- VirtualBox
+    - Kali 2025 (Stable VirtualBox release, not weekly)
+        - nmap (scanning)
+        - zenmap
+        - amass
+        - unicornscan
+        - dnsmap
+        - burpsuite
+        - sqlmap
+        - metasploit
+        - peass/ winpeas
+        - hydra
+        - ncrack 
+        - medusa
+        - wordlist
+        - voiphopper
+        - dns2tcp(d)
+        - netcat
+        - scapy
+        - binwalk
+        - hashdeep
+- Github
+- Visual Studio Code
+- Discord 
 Ref 1: https://listenonrepeat.com/?v=SthcxWPXG_E#I_heard_you_like_polyrhythms
