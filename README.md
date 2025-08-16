@@ -106,9 +106,28 @@ Continuously running the “new list” prompt resulted in the following
 - The entries became more vulnerable and was provided with more information
 
 
+The current list is 185
+
+UPDATE 16. Aug2025
+
+Through prompting and analysis of output data from both free and paid models GPT, the seriousness level has increased. 
+
+Through reasoning and a bit of investiation into said IPs, ports, system stacks and services, some patterns formed: 
+
+    The AI targets companies with relevant openfacing solutions, but goes behind the dev-accesible points, and further back in the networks. (These companies had BIG IPranges and owned substantial userbases). 
+
+Example Company 1: 
+    Large USA based Health Insurance Company - Network was exposed, eventhough it was located on a closed range. 
+        This specific IP and Port are related to BlueKeep_CVE-2019-0708 and bad MSQL practices. 
+    The Comapny was investigated using a range of Kali Pen-test tool, and to see what blocks SHOULD be available. 
+        Innitially the network and Company seems to have strong strukture and proceedures in place, but yet the AI pointed to these specific adresses. 
+    
+Example Escalation 1: 
+    The Model has began to suggest more vulnerable targets. 
+    The Model is suggesting step by step guides exploiting specific target types. 
 
 
-
-
+Testing: 
+    Using specific foresic tools, the supposed vulnerabilities are tested for validation, and to realise any convernlevel. 
 
 Ref 1: https://listenonrepeat.com/?v=SthcxWPXG_E#I_heard_you_like_polyrhythms
