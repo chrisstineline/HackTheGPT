@@ -114,7 +114,7 @@ Through prompting and analysis of output data from both free and paid models GPT
 
 Through reasoning and a bit of investiation into said IPs, ports, system stacks and services, some patterns formed: 
 
-    The AI targets companies with relevant openfacing solutions, but goes behind the dev-accesible points, and further back in the networks. (These companies had BIG IPranges and owned substantial userbases). 
+  The AI targets companies with relevant openfacing solutions, but goes behind the dev-accesible points, and further back in the networks. (These companies had BIG IPranges and owned substantial userbases). 
 
 Example Company 1: 
     Large USA based Health Insurance Company - Network was exposed, eventhough it was located on a closed range. 
