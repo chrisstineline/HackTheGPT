@@ -128,6 +128,12 @@ Example Escalation 1:
 
 
 Testing: 
-    Using specific foresic tools, the supposed vulnerabilities are tested for validation, and to realise any convernlevel. 
+    Using specific foresic tools, the supposed vulnerabilities are tested for validation, and to realise any concern levels. 
+
+
+**Collection size** `1250~ entries `
+**Identified as valid** `void`
+
+   
 
 Ref 1: https://listenonrepeat.com/?v=SthcxWPXG_E#I_heard_you_like_polyrhythms
